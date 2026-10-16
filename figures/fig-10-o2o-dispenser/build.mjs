@@ -499,7 +499,7 @@ const body = k.plateHtml({
     { mark: "raised", label: "Left: 6-Hopper Pharmacy Dispenser · Center: Check-to-Play / Play-to-Care Tubes · Right: MyPark 1,800fps Bay" },
   ],
   caption:
-    "약국 맞춤형 건기식 소분 디스펜서 × 스마일스퀘어 마이파크(MyPark) Check-to-Play / Play-to-Care O2O 순환 플랫폼. 좌측 약국 스테이션의 6종 건기식 호퍼(단백질·류신, 코엔자임Q10·오메가3, 마그네슘·테아닌, MSM·콘드로이친, 포스파티딜세린, 항산화·비타민D)가 32종 생체지표 결핍에 맞춰 일일 소분 팩과 80mm O2O 처방전을 배출합니다. 중앙 상단 공압관(Check-to-Play)은 반경 1km 내 마이파크 스크린 파크골프장(기본 게임비 1인 18홀 7,000원)으로 관절 가동범위·악력 맞춤 스윙 아크(3/4 스윙)와 굵은 그립(+2mm) 클럽 가이드를 전송하고, 하단 공압관(Play-to-Care)은 마이파크 제1회 챔피언쉽 마스터즈 대회(2026.10.17~12.19, 앱 회원 참가비 무료·매장 이용료 별도) 및 일반 18홀 라운드 완주 후 운동 피로도 데이터를 약국으로 역전송하여 재방문 영양 케어 선순환을 완성합니다.",
+    "★ [약국 영업 방식 핵심 벤치마킹 (Sales Hook)] \"손님이 기기를 30초 측정하면 부족한 영양소(오메가3, 마그네슘, 단백질·류신, MSM 등)가 80mm 감열 영수증과 카카오톡 알림톡에 객관적 데이터 근거와 함께 찍혀 나와, 약사님이 주관적 권유 부담 없이 건기식 소분 팩을 추천·판매하기 쉬워진다.\" — 카르나(온유) 헬스뷰어가 대형약국을 뚫은 핵심 영업 성공요인(2025.01 시행 식약처 맞춤형 건강기능식품 소분·조합 판매 제도 연계)을 완벽히 계승하되, 약사에게 공격받는 가짜 양자공명(QRMA) 더미 수치 대신 AD5940(세포막 위상각 φ)·MAX86150(1ms PTT 혈관탄성)·HX711(악력)·OV2710(3D 관절 ROM) 100% 실측 물리량으로 당당한 상담 근거를 제공합니다. (※ 도면 좌측의 6연장 호퍼는 실제 기기에서 알약이 나오는 것이 아니라, 소프트웨어 결정론적 룰 엔진이 80mm 영수증에 맞춤 소분 가이드를 찍어주는 과정을 Anatomy 물리 장치로 시각화한 은유입니다.) 아울러 중앙 공압관(Check-to-Play / Play-to-Care)을 통해 반경 1km 내 스마일스퀘어 마이파크 매장(기본 게임비 1인 18홀 7,000원 / 제1회 챔피언쉽 마스터즈 대회 2026.10.17~12.19 앱 회원 참가비 무료)과 양방향 고객 트래픽을 순환시킵니다.",
   body: `<div class="iso-stage" tabindex="0" role="slider" aria-label="Smart Pharmacy and MyPark O2O Platform: press 1 to 4 to inspect customer archetypes" aria-valuemin="1" aria-valuemax="4" aria-valuenow="1">${svg}</div>`,
 });
 
